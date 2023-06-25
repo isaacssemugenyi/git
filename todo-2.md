@@ -4,7 +4,7 @@
 4. Add remote to the project -> done
 5. Check for remote repo -> done
 6. Push changes to the remote from main -> done
-7. Checkout on local and create new “branch”
+7. Checkout on local and create new “branch” -> done
 8. Add change to that branch
 9. Stage and commit changes
 10. Push those changes to remote repo
