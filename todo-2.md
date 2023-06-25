@@ -1,9 +1,9 @@
-1. Staging and commiting of changes
-2. Log into github account
-3. Create an online repository
-4. Add remote to the project
-5. Check for remote repo
-6. Push changes to the remote from main
+1. Staging and commiting of changes -> done
+2. Log into github account -> done
+3. Create an online repository -> done
+4. Add remote to the project -> done
+5. Check for remote repo -> done
+6. Push changes to the remote from main -> done
 7. Checkout on local and create new “branch”
 8. Add change to that branch
 9. Stage and commit changes
