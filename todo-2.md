@@ -1,4 +1,4 @@
-1. Stage and commit changes
+1. Staging and commiting of changes
 2. Log into github account
 3. Create an online repository
 4. Add remote to the project
@@ -9,5 +9,5 @@
 9. Stage and commit changes
 10. Push those changes to remote repo
 11. Checkout to main and pull those changes
-12. Talk about forking, cloning and pull requests
+12. Talk about forking, cloning and pull requests -> Take home
 
